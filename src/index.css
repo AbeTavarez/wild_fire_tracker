@@ -8,3 +8,8 @@ body {
   height: 90vw;
   position: relative;
 }
+
+.location-icon {
+  font-size: 1.5rem;
+  color: red;
+}
